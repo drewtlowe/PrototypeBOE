@@ -1,0 +1,2 @@
+rootProject.name='PrototypeBOE'
+include ':app'
